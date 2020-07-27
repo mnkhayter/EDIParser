@@ -1,0 +1,10 @@
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\bin\Test123\Specifications\Ansi-816-4010Specification.xml
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\bin\Test123\Specifications\X12ParserSpecification.xsd
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\bin\Test123\OopFactory.X12.Sql.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\bin\Test123\OopFactory.X12.Sql.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\bin\Test123\OopFactory.X12.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\bin\Test123\OopFactory.X12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\obj\Test123\OopFactory.X12.Sql.csproj.CoreCompileInputs.cache
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\obj\Test123\OopFactory.X12.Sql.csproj.CopyComplete
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\obj\Test123\OopFactory.X12.Sql.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Sql\obj\Test123\OopFactory.X12.Sql.pdb

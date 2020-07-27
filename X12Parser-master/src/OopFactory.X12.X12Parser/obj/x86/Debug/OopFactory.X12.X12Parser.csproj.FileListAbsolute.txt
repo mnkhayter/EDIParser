@@ -1,0 +1,12 @@
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\bin\Debug\Specifications\Ansi-816-4010Specification.xml
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\bin\Debug\Specifications\X12ParserSpecification.xsd
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\bin\Debug\X12Parser.exe.config
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\bin\Debug\X12Parser.exe
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\bin\Debug\X12Parser.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\bin\Debug\OopFactory.X12.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\bin\Debug\OopFactory.X12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\obj\x86\Debug\OopFactory.X12.X12Parser.csprojAssemblyReference.cache
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\obj\x86\Debug\OopFactory.X12.X12Parser.csproj.CoreCompileInputs.cache
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\obj\x86\Debug\OopFactory.X12.X12Parser.csproj.CopyComplete
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\obj\x86\Debug\X12Parser.exe
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.X12Parser\obj\x86\Debug\X12Parser.pdb

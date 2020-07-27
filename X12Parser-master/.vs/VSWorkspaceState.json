@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\OopFactory.X12",
+    "\\src\\OopFactory.X12.X12Parser",
+    "\\src\\OopFactory.X12\\Parsing",
+    "\\tests",
+    "\\tests\\OopFactory.X12.Hipaa.Tests.Unit",
+    "\\tests\\OopFactory.X12.Hipaa.Tests.Unit\\Claims"
+  ],
+  "SelectedNode": "\\src\\OopFactory.X12.X12Parser\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

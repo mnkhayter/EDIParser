@@ -1,0 +1,10 @@
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\bin\x86\Test123\Specifications\Ansi-816-4010Specification.xml
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\bin\x86\Test123\Specifications\X12ParserSpecification.xsd
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\bin\x86\Test123\TransformToX12.exe
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\bin\x86\Test123\TransformToX12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\bin\x86\Test123\OopFactory.X12.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\bin\x86\Test123\OopFactory.X12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\obj\x86\Test123\OopFactory.X12.TransformToX12.csproj.CoreCompileInputs.cache
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\obj\x86\Test123\OopFactory.X12.TransformToX12.csproj.CopyComplete
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\obj\x86\Test123\TransformToX12.exe
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.TransformToX12\obj\x86\Test123\TransformToX12.pdb

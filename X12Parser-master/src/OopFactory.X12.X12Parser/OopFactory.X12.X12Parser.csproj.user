@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <StartArguments>C:\DadProj\Hipaa-5010-837P-ClaimPayment.txt</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <StartArguments>"D:\Test.CLM" "D:\Test.xml"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Test123|x86'">
+    <StartArguments>C:\DadProj\EDItoXML\Hipaa-5010-837P-ClaimPayment.txt XMLOutput.xml</StartArguments>
+  </PropertyGroup>
+</Project>

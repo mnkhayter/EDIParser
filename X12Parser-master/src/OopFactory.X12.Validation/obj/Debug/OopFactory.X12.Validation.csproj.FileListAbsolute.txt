@@ -1,0 +1,11 @@
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\bin\Debug\Specifications\Ansi-816-4010Specification.xml
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\bin\Debug\Specifications\X12ParserSpecification.xsd
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\bin\Debug\OopFactory.X12.Validation.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\bin\Debug\OopFactory.X12.Validation.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\bin\Debug\OopFactory.X12.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\bin\Debug\OopFactory.X12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\obj\Debug\OopFactory.X12.Validation.csprojAssemblyReference.cache
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\obj\Debug\OopFactory.X12.Validation.csproj.CoreCompileInputs.cache
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\obj\Debug\OopFactory.X12.Validation.csproj.CopyComplete
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\obj\Debug\OopFactory.X12.Validation.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.Validation\obj\Debug\OopFactory.X12.Validation.pdb

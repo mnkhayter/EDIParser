@@ -1,0 +1,11 @@
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\bin\Debug\Specifications\Ansi-816-4010Specification.xml
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\bin\Debug\Specifications\X12ParserSpecification.xsd
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\bin\Debug\UnbundleX12.exe
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\bin\Debug\UnbundleX12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\bin\Debug\OopFactory.X12.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\bin\Debug\OopFactory.X12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\obj\x86\Debug\OopFactory.X12.UnbundleX12.csproj.CoreCompileInputs.cache
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\obj\x86\Debug\OopFactory.X12.UnbundleX12.csproj.CopyComplete
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\obj\x86\Debug\UnbundleX12.exe
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\obj\x86\Debug\UnbundleX12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\src\OopFactory.X12.UnbundleX12\obj\x86\Debug\OopFactory.X12.UnbundleX12.csprojAssemblyReference.cache

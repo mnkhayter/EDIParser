@@ -1,0 +1,13 @@
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\bin\Debug\Specifications\Ansi-816-4010Specification.xml
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\bin\Debug\Specifications\X12ParserSpecification.xsd
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\bin\Debug\OopFactory.X12.Tests.Unit.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\bin\Debug\OopFactory.X12.Tests.Unit.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\bin\Debug\Fonet.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\bin\Debug\OopFactory.X12.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\bin\Debug\OopFactory.X12.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\obj\Debug\OopFactory.X12.Tests.Unit.csproj.CoreCompileInputs.cache
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\obj\Debug\OopFactory.X12.Tests.Unit.csproj.CopyComplete
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\obj\Debug\OopFactory.X12.Tests.Unit.dll
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\obj\Debug\OopFactory.X12.Tests.Unit.pdb
+C:\Users\mnkha\Documents\X12Parser-master\X12Parser-master\tests\OopFactory.X12.Tests.Unit\obj\Debug\OopFactory.X12.Tests.Unit.csprojAssemblyReference.cache
